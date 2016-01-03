@@ -52,5 +52,5 @@ Gamification is the application of game elements and digital game design techniq
 ### 28/12/2015
 - Finished Week 3 | Motivation and Psychology
 
-### 03/01/2015
+### 03/01/2016
 - Finished Week 4 | Design
