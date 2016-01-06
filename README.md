@@ -1,6 +1,6 @@
 # Gamification
 
-COURSE AUDIT COMPLETED | 88%
+# COURSE AUDIT COMPLETED | 88%
 
 ### Created by The University of Pennsylvania
 Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively. For additional information on the concepts described in the course, you can purchase Professor Werbach's book For the Win: How Game Thinking Can Revolutionize Your Business in print or ebook format in several languages.
